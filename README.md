@@ -21,4 +21,4 @@ If you want compile the code:
 Modules installed:
 - React(react, react-dom)
 - Babel (@babel/core, babel-loader, @babel/preset-env, @babel/preset-react)
-- Webpack (webpack, webpack-cli, html-webpack-plugin, html-loader, webpack-dev-server, file-loader)
+- Webpack (webpack, webpack-cli, html-webpack-plugin, html-loader, webpack-dev-server)
