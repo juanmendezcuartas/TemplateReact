@@ -12,3 +12,7 @@ If you want customize the folder name TemplateReact:
 - Open file package.jason and change "name":"TemplateReact" for "name":"MyNewFolderName" and save.
 - Open file package-lock.jason and change "name":"TemplateReact" for "name":"MyNewFolderName" and save.
 - That' all, open terminal and write: npm run start
+
+If you want compile code:
+-npm run build
+-the compile files are located in 'dist'
