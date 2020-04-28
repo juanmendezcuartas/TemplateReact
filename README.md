@@ -18,7 +18,7 @@ If you want compile the code:
 -the compile files are located in 'dist'
 
 
-Node_modules:
+Modules installed:
 -React
 -Babel
 -Webpack
