@@ -19,5 +19,7 @@ If you want compile the code:
 
 
 Node_modules:
--babel
--webpack
+-React
+-Babel
+-Webpack
+-JSX
