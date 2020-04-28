@@ -6,7 +6,7 @@ For run and check the server:
 
 
 If you want customize the folder name TemplateReact:
-- Change folder name TemplateReact to one you want (example: my_new_project_name).
+- Change folder called TemplateReact to one you want (example: my_new_project_name).
 - If you see the console in red is normal xD, so let's fix it.
 - Open folder (my_new_project_name) in text editor like VSCode.
 - Open file package.jason and change "name":"TemplateReact" for "name":"my_new_project_name" and save.
