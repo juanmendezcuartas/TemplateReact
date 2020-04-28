@@ -6,13 +6,18 @@ For run and check the server:
 
 
 If you want customize the folder name TemplateReact:
-- Change folder name TemplateReact to one you want (example: MyNewFolderName).
+- Change folder name TemplateReact to one you want (example: my_new_project_name).
 - If you see the console in red is normal xD, so let's fix it.
-- Open folder (MyNewFolderName) in text editor like VSCode.
-- Open file package.jason and change "name":"TemplateReact" for "name":"MyNewFolderName" and save.
-- Open file package-lock.jason and change "name":"TemplateReact" for "name":"MyNewFolderName" and save.
+- Open folder (my_new_project_name) in text editor like VSCode.
+- Open file package.jason and change "name":"TemplateReact" for "name":"my_new_project_name" and save.
+- Open file package-lock.jason and change "name":"TemplateReact" for "name":"my_new_project_name" and save.
 - That' all, open terminal and write: npm run start
 
 If you want compile the code:
 -npm run build
 -the compile files are located in 'dist'
+
+
+Node_modules:
+-babel
+-webpack
