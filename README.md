@@ -19,7 +19,7 @@ If you want compile the code:
 
 
 Modules installed:
--React
--Babel
--Webpack
--JSX
+- React
+- Babel
+- Webpack
+- JSX
